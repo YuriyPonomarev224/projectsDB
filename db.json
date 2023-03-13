@@ -1,0 +1,42 @@
+{
+	"projects": [
+        {
+          "id": 1, 
+		  "title": "Dinosaurs.Wiki", 
+		  "imageAlt": "Dino", 
+		  "link": "https://yuriyponomarev224.github.io/#/", 
+		  "imageSrc": "./projects/images/dino.png"
+        },
+        {
+          "id": 2, 
+		  "title": "Тестовая работа для Purrweb", 
+		  "imageAlt": "Test work for Purrweb", 
+		  "link": "http://vk.com", 
+		  "imageSrc": "./projects/images/NoTab.png"
+        },
+        {
+          "id": 3, 
+		  "title": "Тестовая работа для ADCI Solution", 
+		  "imageAlt": "Test work for ADCI", 
+		  "link": "https://yuriyponomarev224.github.io/testwork_adci/", 
+		  "imageSrc": "./projects/images/mmlampadari.png"
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        }
+      ]}
