@@ -5,21 +5,21 @@
 		  "title": "Dinosaurs.Wiki", 
 		  "imageAlt": "Dino", 
 		  "link": "https://yuriyponomarev224.github.io/#/", 
-		  "imageSrc": "./projects/images/dino.png"
+		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/dino.png"
         },
         {
           "id": 2, 
 		  "title": "Тестовая работа для Purrweb", 
 		  "imageAlt": "Test work for Purrweb", 
 		  "link": "http://vk.com", 
-		  "imageSrc": "./projects/images/NoTab.png"
+		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/noTab.png"
         },
         {
           "id": 3, 
-		  "title": "Тестовая aboba для ADCI Solution", 
+		  "title": "Тестовая работа для ADCI Solution", 
 		  "imageAlt": "Test work for ADCI", 
 		  "link": "https://yuriyponomarev224.github.io/testwork_adci/", 
-		  "imageSrc": "./projects/images/mmlampadari.png"
+		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/mmlampadari.png"
         },
         {
           "id": 4
