@@ -2,21 +2,21 @@
 	"projects": [
         {
           "id": 1, 
-		  "title": "Dinosaurs", 
+		  "title": "Dinosaurs (делал в период обучения ОмГУ им. Достоевского)", 
 		  "imageAlt": "Dino", 
 		  "link": "https://yuriyponomarev224.github.io/graduation/", 
 		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/dino.png"
         },
         {
           "id": 2, 
-		  "title": "Тестовая работа для Purrweb", 
+		  "title": "Тестовая работа для Purrweb(выполнял во время обучения верстке)", 
 		  "imageAlt": "Test work for Purrweb", 
 		  "link": "https://yuriyponomarev224.github.io/testwork2/", 
 		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/noTab.png"
         },
         {
           "id": 3, 
-		  "title": "Тестовая работа для ADCI Solution", 
+		  "title": "Тестовая работа для ADCI Solution(выполнял во время обучения верстке)", 
 		  "imageAlt": "Test work for ADCI", 
 		  "link": "https://yuriyponomarev224.github.io/testwork_adci/", 
 		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/mmLampadari.png"
