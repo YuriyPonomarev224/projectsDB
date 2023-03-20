@@ -9,14 +9,14 @@
         },
         {
           "id": 2, 
-		  "title": "Тестовая работа для Purrweb(выполнял во время обучения верстке)", 
+		  "title": "Тестовая работа для Purrweb (выполнял во время обучения верстке)", 
 		  "imageAlt": "Test work for Purrweb", 
 		  "link": "https://yuriyponomarev224.github.io/testwork2/", 
 		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/noTab.png"
         },
         {
           "id": 3, 
-		  "title": "Тестовая работа для ADCI Solution(выполнял во время обучения верстке)", 
+		  "title": "Тестовая работа для ADCI Solution (выполнял во время обучения верстке)", 
 		  "imageAlt": "Test work for ADCI", 
 		  "link": "https://yuriyponomarev224.github.io/testwork_adci/", 
 		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/mmLampadari.png"
