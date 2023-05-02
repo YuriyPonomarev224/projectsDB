@@ -20,5 +20,12 @@
 		  "imageAlt": "Test work for ADCI", 
 		  "link": "https://yuriyponomarev224.github.io/testwork_adci/", 
 		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/mmLampadari.png"
-        }
+        },
+		{
+		  "id": 4, 
+		  "title": "Тестовая работа для Sprinthost", 
+		  "imageAlt": "Test work for Sprinthost", 
+		  "link": "https://yuriyponomarev224.github.io/sprinthost/", 
+		  "imageSrc": "https://raw.githubusercontent.com/YuriyPonomarev224/projectsDB/main/projectsImg/sprinthost.png"
+		}
       ]}
